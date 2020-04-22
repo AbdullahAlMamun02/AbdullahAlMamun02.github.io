@@ -8,15 +8,22 @@ body{
   color: $font-color;
 }
 
-
+/*.navbar ul li a{
+  background-color:  #008ed6;
+  text-align: center;
+  margin: 3px 0;
+  margin-left: auto;
+  border-radius: 5px;
+  width: 20%;
+}
+*/
 .navbar{
   background: #292b2c;
-  opacity: .8;
+  opacity: 0.991;
   border-bottom: 3px solid #008ed6;
 }
-
 #home-sec{
-  background: url('img3.jpg') no-repeat center center;
+  background: url('../img/img3.jpg') no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
 
